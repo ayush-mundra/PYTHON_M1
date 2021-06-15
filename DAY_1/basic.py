@@ -8,6 +8,8 @@ python are totaly based on objects and classes
 # cannot start with numbers
 # var can stat with _(underscore) 
 
+
+
 true = "Harry"
 list = 15 # wrong
 my_var = "Hello"
